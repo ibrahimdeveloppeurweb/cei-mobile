@@ -1,0 +1,2 @@
+/Users/adonko3xbitters/Desktop/PRODESTIC/CEI/cei-mobile/android/app/.cxx/Debug/12576a5c/x86_64/CMakeFiles/edit_cache.dir
+/Users/adonko3xbitters/Desktop/PRODESTIC/CEI/cei-mobile/android/app/.cxx/Debug/12576a5c/x86_64/CMakeFiles/rebuild_cache.dir

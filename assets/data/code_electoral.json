@@ -1,0 +1,152 @@
+{
+  "code_electoral": {
+    "titre": "CODE ELECTORAL DE LA REPUBLIQUE DE COTE D'IVOIRE",
+    "ordonnance": "N° 2020-356 DU 08 AVRIL 2020",
+    "articles": [
+      {
+        "numero": "1",
+        "titre": "ARTICLE PREMIER",
+        "contenu": "La présente ordonnance détermine les conditions d'exercice par le peuple de sa souveraineté en ce qui concerne la désignation de ses représentants à la Présidence de la République, à l'Assemblée nationale, au Sénat, aux conseils régionaux et aux conseils municipaux.",
+        "chapitre": "DISPOSITIONS GENERALES",
+        "section": null,
+        "mots_cles": ["souveraineté", "représentants", "présidence", "assemblée nationale", "sénat", "conseils régionaux", "conseils municipaux"]
+      },
+      {
+        "numero": "2",
+        "titre": "ARTICLE 2",
+        "contenu": "Le suffrage est universel, libre, égal et secret.",
+        "chapitre": "DISPOSITIONS GENERALES",
+        "section": null,
+        "mots_cles": ["suffrage", "universel", "libre", "égal", "secret"]
+      },
+      {
+        "numero": "3",
+        "titre": "ARTICLE 3",
+        "contenu": "Sont électeurs les ivoiriens des deux sexes et les personnes ayant acquis la nationalité ivoirienne soit par naturalisation soit par mariage, âgés de dix-huit ans accomplis, inscrits sur une liste électorale, jouissant de leurs droits civils et politiques et ne se trouvant dans aucun des cas d'incapacité prévus par la loi. Les personnes visées à l'alinéa précédent, vivant à l'étranger et immatriculées dans une représentation diplomatique ou consulaire, peuvent prendre part à l'élection du Président de la République selon les modalités fixées par décret en Conseil des ministres, sur proposition de la Commission chargée des élections.",
+        "chapitre": "DE L'ELECTORAT",
+        "section": "De la qualité d'électeur",
+        "mots_cles": ["électeurs", "nationalité ivoirienne", "18 ans", "liste électorale", "droits civils", "étranger", "président république"]
+      },
+      {
+        "numero": "4",
+        "titre": "ARTICLE 4",
+        "contenu": "Ne sont pas électeurs les individus frappés d'incapacité ou d'indignité notamment : - les individus condamnés pour crime ; - les individus condamnés à une peine d'emprisonnement sans sursis pour vol, escroquerie, abus de confiance, détournement de deniers publics, faux et usage de faux, corruption et trafic d'influence, attentats aux mœurs ; - les faillis non réhabilités ; - les individus en état de contumace ; - les interdits ; - les individus auxquels les tribunaux ont interdit le droit de vote et, plus généralement, ceux pour lesquels les lois ont édicté cette interdiction.",
+        "chapitre": "DE L'ELECTORAT",
+        "section": "De la qualité d'électeur",
+        "mots_cles": ["incapacité", "indignité", "crime", "emprisonnement", "corruption", "interdiction vote"]
+      },
+      {
+        "numero": "5",
+        "titre": "ARTICLE 5",
+        "contenu": "La qualité d'électeur est constatée par l'inscription sur une liste électorale. Cette inscription est de droit.",
+        "chapitre": "DE L'ELECTORAT",
+        "section": "De la qualité d'électeur",
+        "mots_cles": ["qualité électeur", "inscription", "liste électorale", "droit"]
+      },
+      {
+        "numero": "43",
+        "titre": "ARTICLE 43",
+        "contenu": "Le Président de la République est élu pour cinq ans au suffrage universel direct. Il n'est rééligible qu'une fois.",
+        "chapitre": "DE L'ELECTION DU PRESIDENT DE LA REPUBLIQUE",
+        "section": "Du mode de scrutin",
+        "mots_cles": ["président république", "cinq ans", "suffrage universel direct", "rééligible", "une fois"]
+      },
+      {
+        "numero": "44",
+        "titre": "ARTICLE 44",
+        "contenu": "L'élection du Président de la République est acquise à la majorité absolue des suffrages exprimés. Si la majorité absolue n'est pas obtenue au premier tour, il est procédé à un second tour. Seuls peuvent s'y présenter les deux candidats ayant recueilli le plus grand nombre de suffrages exprimés au premier tour. L'élection du Président de la République au second tour est acquise à la majorité des suffrages exprimés.",
+        "chapitre": "DE L'ELECTION DU PRESIDENT DE LA REPUBLIQUE",
+        "section": "Du mode de scrutin",
+        "mots_cles": ["majorité absolue", "premier tour", "second tour", "deux candidats", "suffrages exprimés"]
+      },
+      {
+        "numero": "51",
+        "titre": "ARTICLE 51",
+        "contenu": "Chaque candidat à l'élection du Président de la République est tenu de produire une déclaration de candidature revêtue de sa signature dûment légalisée. En outre, il doit être parrainé par une liste d'électeurs représentant un pour cent (1%) de l'électorat local, dans au moins cinquante pour cent (50%) des districts autonomes et régions.",
+        "chapitre": "DE L'ELECTION DU PRESIDENT DE LA REPUBLIQUE",
+        "section": "Des conditions d'éligibilité et d'inéligibilité",
+        "mots_cles": ["candidature", "signature légalisée", "parrainage", "1%", "50%", "districts", "régions"]
+      },
+      {
+        "numero": "55",
+        "titre": "ARTICLE 55",
+        "contenu": "Le cautionnement est fixé à cinquante millions de francs.",
+        "chapitre": "DE L'ELECTION DU PRESIDENT DE LA REPUBLIQUE",
+        "section": "Des conditions d'éligibilité et d'inéligibilité",
+        "mots_cles": ["cautionnement", "cinquante millions", "francs"]
+      },
+      {
+        "numero": "67",
+        "titre": "ARTICLE 67",
+        "contenu": "Les députés sont élus pour cinq ans. Ils sont rééligibles.",
+        "chapitre": "DE L'ELECTION DES DEPUTES",
+        "section": "Du mode de scrutin",
+        "mots_cles": ["députés", "cinq ans", "rééligibles"]
+      },
+      {
+        "numero": "71",
+        "titre": "ARTICLE 71",
+        "contenu": "Le candidat à l'élection de député à l'Assemblée nationale doit : - être âgé de 25 ans au moins ; - être ivoirien de naissance ; - n'avoir jamais renoncé à la nationalité ivoirienne.",
+        "chapitre": "DE L'ELECTION DES DEPUTES",
+        "section": "De l'éligibilité et de l'inéligibilité",
+        "mots_cles": ["député", "25 ans", "ivoirien naissance", "nationalité"]
+      },
+      {
+        "numero": "78",
+        "titre": "ARTICLE 78",
+        "contenu": "Pour les circonscriptions de plus de deux sièges, les listes doivent comporter au moins trente pour cent (30%) de candidatures féminines. Aucune liste de candidature à l'élection des députés pour les circonscriptions de plus de deux sièges, ne peut être acceptée, si elle ne comporte au moins trente pour cent (30%) de candidatures féminines.",
+        "chapitre": "DE L'ELECTION DES DEPUTES",
+        "section": "De la présentation des candidatures",
+        "mots_cles": ["30%", "candidatures féminines", "parité", "circonscriptions"]
+      },
+      {
+        "numero": "106",
+        "titre": "ARTICLE 106",
+        "contenu": "Les sénateurs sont élus au suffrage universel indirect pour cinq ans. Ils sont rééligibles.",
+        "chapitre": "DE L'ELECTION DES SENATEURS",
+        "section": "Du mode de scrutin",
+        "mots_cles": ["sénateurs", "suffrage universel indirect", "cinq ans", "rééligibles"]
+      },
+      {
+        "numero": "112",
+        "titre": "ARTICLE 112",
+        "contenu": "Est éligible dans la circonscription électorale de son choix, tout ivoirien âgé de 35 ans au moins, qui a la qualité d'électeur et qui jouit de ses droits civils et politiques et justifie d'une résidence effective dans la circonscription électorale choisie.",
+        "chapitre": "DE L'ELECTION DES SENATEURS",
+        "section": "De l'éligibilité et de l'inéligibilité",
+        "mots_cles": ["sénateur", "35 ans", "électeur", "droits civils", "résidence effective"]
+      },
+      {
+        "numero": "148",
+        "titre": "ARTICLE 148",
+        "contenu": "Les conseillers régionaux sont élus au suffrage universel direct et au scrutin de liste proportionnel et majoritaire à un tour sur des listes complètes sans vote préférentiel ni panachage. La liste qui recueille le plus de suffrages exprimés obtient la moitié des sièges à pourvoir. L'autre moitié des sièges est répartie, entre toutes les listes, y compris la liste majoritaire, à la proportionnelle et aux plus forts restes.",
+        "chapitre": "DE L'ELECTION DES CONSEILLERS REGIONAUX",
+        "section": "Du mode de scrutin",
+        "mots_cles": ["conseillers régionaux", "suffrage universel direct", "scrutin proportionnel", "majoritaire", "un tour"]
+      },
+      {
+        "numero": "150",
+        "titre": "ARTICLE 150",
+        "contenu": "Tout Ivoirien âgé de 25 ans révolus, qui a la qualité d'électeur, peut se présenter aux élections régionales dans toute circonscription électorale de son choix pour être élu conseiller régional sous les réserves énoncées aux articles suivants.",
+        "chapitre": "DE L'ELECTION DES CONSEILLERS REGIONAUX",
+        "section": "De l'éligibilité et de l'inéligibilité",
+        "mots_cles": ["conseiller régional", "25 ans", "électeur", "circonscription"]
+      },
+      {
+        "numero": "176",
+        "titre": "ARTICLE 176",
+        "contenu": "Les conseillers municipaux sont élus au suffrage universel direct et au scrutin de liste proportionnel et majoritaire à un tour sur des listes complètes sans vote préférentiel ni panachage. La liste qui recueille le plus de suffrages exprimés obtient la moitié des sièges à pourvoir. L'autre moitié des sièges est répartie, entre toutes les listes, y compris la liste majoritaire, à la proportionnelle et aux plus forts restes.",
+        "chapitre": "DE L'ELECTION DES CONSEILLERS MUNICIPAUX",
+        "section": "Du mode de scrutin",
+        "mots_cles": ["conseillers municipaux", "suffrage universel direct", "scrutin proportionnel", "majoritaire"]
+      },
+      {
+        "numero": "178",
+        "titre": "ARTICLE 178",
+        "contenu": "Tout Ivoirien âgé de vingt-cinq ans révolus, qui a la qualité d'électeur, peut se présenter aux élections municipales dans toute circonscription électorale de son choix pour être élu conseiller municipal sous les réserves énoncées aux articles suivants.",
+        "chapitre": "DE L'ELECTION DES CONSEILLERS MUNICIPAUX",
+        "section": "De l'éligibilité et de l'inéligibilité",
+        "mots_cles": ["conseiller municipal", "25 ans", "électeur", "élections municipales"]
+      }
+    ]
+  }
+}

@@ -1,0 +1,2 @@
+/Users/mat/Development/importants/cei_mobile/android/app/.cxx/RelWithDebInfo/1m695f40/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/mat/Development/importants/cei_mobile/android/app/.cxx/RelWithDebInfo/1m695f40/armeabi-v7a/CMakeFiles/rebuild_cache.dir
